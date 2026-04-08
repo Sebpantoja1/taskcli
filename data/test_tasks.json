@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a10ebd44-5749-47ab-ae6a-ae30c2ddef89",
+    "title": "Managed Task",
+    "description": "Testing the json",
+    "state": "Todo",
+    "priority": "Medium",
+    "subtasks": [],
+    "created_at": "2026-04-07T23:50:24.902045",
+    "updated_at": "2026-04-07T23:50:24.902045"
+  },
+  {
+    "id": "5d40f06c-f3f9-4c14-b515-525ca171a918",
+    "title": "Managed Task",
+    "description": "Testing the json",
+    "state": "Todo",
+    "priority": "Medium",
+    "subtasks": [],
+    "created_at": "2026-04-07T23:53:03.554447",
+    "updated_at": "2026-04-07T23:53:03.554447"
+  },
+  {
+    "id": "d33afc4e-37a2-427f-b64a-cdb9f306fc8e",
+    "title": "Managed Task 3",
+    "description": "Testing the json",
+    "state": "Todo",
+    "priority": "Medium",
+    "subtasks": [],
+    "created_at": "2026-04-07T23:54:24.116510",
+    "updated_at": "2026-04-07T23:54:24.116510"
+  }
+]
