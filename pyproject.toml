@@ -5,6 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "pydantic>=2.12.5",
     "textual>=8.2.3",
     "textual-dev>=1.8.0",
+    "typing>=3.10.0.0",
+    "uuid>=1.30",
 ]
