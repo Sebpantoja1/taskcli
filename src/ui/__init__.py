@@ -1,4 +1,4 @@
 # src/ui/widgets/__init__.py
-from .task_list import TaskList
-from .action_hub import ActionHub
-from .timer import Timer
+from .widgets.task_list import TaskList
+from .widgets.action_hub import ActionHub
+# from .widgets.timer import Timer
