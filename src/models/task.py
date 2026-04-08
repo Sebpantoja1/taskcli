@@ -14,8 +14,8 @@ class Task(BaseModel):
     state: str = "Todo" # Todo, In Progress, Done
     priority: str = "Medium" #Low, Medium, High
     subtasks: List[SubTask] = []
-    createdAt: datetime = Field(default_factory= datetime.now) 
-    updatedAt: datetime = Field(default_factory= datetime.now)
+    created_at: datetime = Field(default_factory= datetime.now) 
+    updated_at: datetime = Field(default_factory= datetime.now)
 
     @property
     def progress(self) -> float:
